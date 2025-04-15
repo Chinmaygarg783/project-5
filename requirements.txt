@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+ipykernel
+flask
+flask_cors
+requests
+pyodbc
